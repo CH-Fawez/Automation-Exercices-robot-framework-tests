@@ -1,4 +1,4 @@
-# Robot Framework Test Automation
+#  Test Automation
 
 This repository contains test cases written using **Robot Framework** for automating the signup functionality of a sample e-commerce website: [Automation Exercise](https://www.automationexercise.com/).
 
